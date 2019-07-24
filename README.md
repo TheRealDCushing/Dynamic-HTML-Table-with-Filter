@@ -1,4 +1,4 @@
-### Intro
+### Summary
 
 I used Javascript to populate an HTML table based on a date and location filter.
 
